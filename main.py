@@ -12,6 +12,20 @@ def add_numbers(a, b):
     """
     return a + b
 
+def add_numbers(a, b):
+    """
+    计算两个数之差的函数
+
+    参数:
+    a (int or float): 第一个数
+    b (int or float): 第二个数
+
+    返回:
+    int or float: 两个数的差
+    """
+    return a - b
+
+
 print("hello user_one")
 print("git push origin main")
 
